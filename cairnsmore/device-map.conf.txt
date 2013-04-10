@@ -1,0 +1,3 @@
+device-map.conf format
+
+<device serial number>:<port number>:<icarus timing>

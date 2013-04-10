@@ -1,0 +1,1 @@
+ls -l /dev/serial/by-id | grep -v total | cut -f9-12 -d" "
